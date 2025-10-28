@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Robin1053">
-    <img src="https://avatars.githubusercontent.com/u/74620023?v=4" width="150px;" alt="Robin's GitHub Profilbild"/><br />
+    <img src="https://avatars.githubusercontent.com/u/138714292?s=96&v=4" width="150px;" alt="Robin's GitHub Profilbild"/><br />
   </a>
   <h1>Hi there 👋, ich bin Robin!</h1>
 </div>
