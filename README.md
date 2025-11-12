@@ -6,79 +6,67 @@
 </div>
 
 <p align="center">
-  Willkommen auf meinem kleinen digitalen Spielplatz hier auf GitHub! Ich bin ein begeisterter Softwareentwickler und fasziniert von allem, was mit Code, Daten und neuen Technologien zu tun hat.
+  Willkommen auf meinem digitalen Spielplatz auf GitHub! Ich bin leidenschaftlicher Softwareentwickler und habe Freude daran, Ideen in sauberen, funktionalen Code zu verwandeln.
 </p>
 
 ---
 
-### 🚀 Was ich gerade mache & woran ich arbeite
+### 🚀 Aktuell & woran ich arbeite
 
--   **Webentwicklung (Fullstack-Interesse):** Obwohl mein Schwerpunkt auf dem Backend liegt, habe ich auch viel Freude an der Frontend-Entwicklung. Ich arbeite gerne mit **React** und **Next.js** und achte dabei auf eine gute User Experience und moderne Designprinzipien.
--   **Backend-Entwicklung:** Ich vertiefe mich gerne in die Welt der Server-Side-Programmierung und bin meist mit **Node.js** (insbesondere mit **NestJS** oder **Express**) unterwegs. Saubere Architekturen, APIs und performante Dienste sind meine Leidenschaft.
--   **Datenbanken:** SQL (PostgreSQL, MySQL) und NoSQL (MongoDB, Redis) sind meine täglichen Begleiter. Ich liebe es, Datenmodelle zu entwerfen und effiziente Abfragen zu schreiben.
+- **Webentwicklung (Fullstack):** Schwerpunkt Backend, aber mit Begeisterung für Frontend (React, Next.js) und gutes UX-Design.  
+- **Backend & Architekturen:** Node.js (NestJS / Express), saubere Architekturen, APIs und performante Dienste.  
+- **Datenbanken:** Arbeit mit SQL (PostgreSQL, MySQL) und NoSQL (MongoDB, Redis), Modellierung und effiziente Abfragen.
 
 ---
 
-### 🛠️ Meine bevorzugten Technologien & Werkzeuge
-
-Hier ist eine Auswahl der Technologien, mit denen ich gerne arbeite und die ich beherrsche:
+### 🛠️ Bevorzugte Technologien & Werkzeuge
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,nextjs,express,github" />
   </a>
 </p>
-<p align="center">
-  <i>(Hinweis: Die Liste ist dynamisch und wächst ständig!)</i>
-</p>
+<p align="center"><i>Die Liste wächst ständig — erweitere mich gerne mit deinen Wunsch‑Skills.</i></p>
 
 ---
 
-### 💡 Ein paar meiner Projekte
+### 💡 Projekte & Highlights
 
-Hier sind einige Highlights aus meinen Repositories:
+- **ToDo-App (Angular)** — Eine vollständige ToDo-Anwendung als praktisches Beispiel für Angular-Patterns und Interaktivität.  
+  Link: https://github.com/Robin1053/ToDo
 
--   **ToDo-App (Angular)**: Eine einfache, aber vollständige ToDo-Anwendung, die die Grundlagen von Angular demonstriert. Ein gutes Beispiel für interaktive Frontend-Entwicklung.
-    *   [Zum Projekt auf GitHub](https://github.com/Robin1053/ToDo)
--   **express-app (Node.js)**: Ein robustes Backend-Framework, das mit Express.js implementiert wurde. Ideal zur Erstellung von RESTful APIs und als Basis für Webanwendungen.
-    *   [Zum Projekt auf GitHub](https://github.com/Robin1053/express-app)
--   **AngularWS (Angular)**: Ein weiteres Projekt, das meine Erfahrungen mit Angular unterstreicht. Hier experimentiere ich mit [kurze Beschreibung, was dieses Projekt besonders macht, z.B. "WebSockets" oder "bestimmte Komponenten"].
-    *   [Zum Projekt auf GitHub](https://github.com/Robin1053/AngularWS)
-Schau dir meine Repositories an, um mehr zu entdecken!
+- **express-app (Node.js)** — Robust aufgebautes Backend mit Express.js, ideal als Basis für RESTful APIs.  
+  Link: https://github.com/Robin1053/express-app
 
----
+- **AngularWS (Angular)** — Experimentelles Angular-Projekt (z. B. WebSockets / spezielle Komponenten).  
+  Link: https://github.com/Robin1053/AngularWS
 
-### 🌱 Was ich lernen möchte
-
-Ich bin immer auf der Suche nach neuen Herausforderungen und Technologien. Aktuell stehen auf meiner Lernliste:
-
--   Vertiefung in **GoLang** für hochperformante Dienste.
--   Erforschung von **Rust** für Systemprogrammierung und WebAssembly.
--   Mehr über **Serverless Architectures** und **Event-Driven Architectures** mit Kafka oder RabbitMQ.
--   Praktische Erfahrungen mit **Machine Learning Deployments** (MLOps).
+Schau dir meine Repositories an — dort findest du weitere kleine Tools, Skripte und Experimente.
 
 ---
 
-### 🌐 Lass uns connecten!
+### 🌱 Lernziele & was ich gerade lernen möchte
 
-Ich freue mich immer über neue Kontakte und den Austausch mit anderen Entwicklern.
+Aktuell konzentriere ich mich auf folgende Themen:
+- Python — Grundlagen, Bibliotheken und Automatisierungsskripte  
+- Java — objektorientierte Konzepte, Ökosystem und Best Practices
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/dein-linkedin-profil/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <!-- Optional: Füge hier weitere Badges für z.B. Twitter, persönliche Website, Blog hinzu -->
-  <!-- <a href="https://deine-website.de" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
-  </a> -->
-</p>
+---
 
-Du kannst mich auch direkt über GitHub erreichen oder einen Issue in einem meiner Projekte öffnen.
+### 🌐 Kontakt
+
+- GitHub: https://github.com/Robin1053  
+- E‑Mail: eberle_robin@gmx.de
+
+Du kannst mich gern per E‑Mail oder direkt über GitHub (Issues / PRs) erreichen.
 
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad."</i> - Cory House
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
 
 ---
+
+### Lizenz
+Dieses Profil-Repository ist unter MIT lizenziert — siehe LICENSE-Datei (falls vorhanden).
