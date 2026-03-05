@@ -13,9 +13,10 @@
 
 ### 🚀 Aktuell & woran ich arbeite
 
-- **Webentwicklung (Fullstack):** Schwerpunkt Backend, aber mit Begeisterung für Frontend (React, Next.js) und gutes UX-Design.  
-- **Backend & Architekturen:** Node.js (NestJS / Express), saubere Architekturen, APIs und performante Dienste.  
-- **Datenbanken:** Arbeit mit SQL (PostgreSQL, MySQL) und NoSQL (MongoDB, Redis), Modellierung und effiziente Abfragen.
+- **Webentwicklung (Fullstack):** Schwerpunkt auf modernen Full-Stack-Anwendungen mit Next.js, React und TypeScript.  
+- **Backend & Architekturen:** Node.js, saubere Architekturen, RESTful APIs und Authentifizierungssysteme (Better Auth, Prisma).  
+- **Datenbanken:** Arbeit mit SQL (PostgreSQL, SQLite via Prisma) und effizienter Datenbankmodellierung.  
+- **Open-Source-Pakete:** Entwicklung und Veröffentlichung von npm-Paketen (z. B. `@robineb/mui-utility`).
 
 ---
 
@@ -23,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,nextjs,express,github" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,python,prisma,github" />
   </a>
 </p>
 <p align="center"><i>Die Liste wächst ständig — erweitere mich gerne mit deinen Wunsch‑Skills.</i></p>
@@ -32,11 +33,20 @@
 
 ### 💡 Projekte & Highlights
 
-- **ToDo-App (Angular)** — Eine vollständige ToDo-Anwendung als praktisches Beispiel für Angular-Patterns und Interaktivität.  
-  Link: https://github.com/Robin1053/ToDo
+- **E-Commerce (Next.js / TypeScript)** — Vollständige Full-Stack-E-Commerce-Plattform mit Next.js 15, React 19, Prisma, MUI, Stripe-Zahlungsintegration und Better Auth.  
+  Link: https://github.com/Robin1053/E-Commerce
 
-- **express-app (Node.js)** — Robust aufgebautes Backend mit Express.js, ideal als Basis für RESTful APIs.  
-  Link: https://github.com/Robin1053/express-app
+- **@robineb/mui-utility (npm-Paket)** — Wiederverwendbare MUI-Utility-Komponenten (`ActionButton`, `NotificationProvider`) als veröffentlichtes npm-Paket.  
+  Link: https://github.com/Robin1053/Mui-Utility
+
+- **visca-bridge (Python + React / TypeScript)** — Schlanke VISCA-over-IP ↔ RS-232 Bridge mit Python-Backend und modernem React-Frontend (Vite + TypeScript).  
+  Link: https://github.com/Robin1053/visca-bridge
+
+- **better_auth_test (Next.js / TypeScript)** — Auth-Demo-Projekt mit Next.js 16, Better Auth (OAuth, Passkeys, 2FA) und Prisma (SQLite).  
+  Link: https://github.com/Robin1053/better_auth_test
+
+- **ToDo-App (Angular)** — Vollständige ToDo-Anwendung als praktisches Beispiel für Angular-Patterns und Interaktivität.  
+  Link: https://github.com/Robin1053/ToDo
 
 - **AngularWS (Angular)** — Experimentelles Angular-Projekt (z. B. WebSockets / spezielle Komponenten).  
   Link: https://github.com/Robin1053/AngularWS
@@ -48,8 +58,8 @@ Schau dir meine Repositories an — dort findest du weitere kleine Tools, Skript
 ### 🌱 Lernziele & was ich gerade lernen möchte
 
 Aktuell konzentriere ich mich auf folgende Themen:
-- Python — Grundlagen, Bibliotheken und Automatisierungsskripte  
-- Java — objektorientierte Konzepte, Ökosystem und Best Practices
+- Java — objektorientierte Konzepte, Ökosystem und Best Practices  
+- DevOps & Deployment — Docker, CI/CD-Pipelines und Cloud-Hosting
 
 ---
 
