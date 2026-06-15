@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  Willkommen auf meinem digitalen Spielplatz auf GitHub! Ich bin leidenschaftlicher Softwareentwickler und habe Freude daran, Ideen in sauberen, funktionalen Code zu verwandeln.
+  Willkommen auf meinem digitalen Spielplatz auf GitHub!
 </p>
 
 ---
@@ -15,7 +15,6 @@
 
 - **Webentwicklung (Fullstack):** Schwerpunkt auf modernen Full-Stack-Anwendungen mit Next.js, React und TypeScript.  
 - **Backend & Architekturen:** Node.js, saubere Architekturen, RESTful APIs und Authentifizierungssysteme (Better Auth, Prisma).  
-- **Datenbanken:** Arbeit mit SQL (PostgreSQL, SQLite via Prisma) und effizienter Datenbankmodellierung.  
 - **Open-Source-Pakete:** Entwicklung und Veröffentlichung von npm-Paketen (z. B. `@robineb/mui-utility`).
 
 ---
@@ -24,17 +23,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,python,prisma,github" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,github,java" />
   </a>
 </p>
-<p align="center"><i>Die Liste wächst ständig — erweitere mich gerne mit deinen Wunsch‑Skills.</i></p>
 
 ---
 
 ### 💡 Projekte & Highlights
-
-- **E-Commerce (Next.js / TypeScript)** — Vollständige Full-Stack-E-Commerce-Plattform mit Next.js 15, React 19, Prisma, MUI, Stripe-Zahlungsintegration und Better Auth.  
-  Link: https://github.com/Robin1053/E-Commerce
 
 - **@robineb/mui-utility (npm-Paket)** — Wiederverwendbare MUI-Utility-Komponenten (`ActionButton`, `NotificationProvider`) als veröffentlichtes npm-Paket.  
   Link: https://github.com/Robin1053/Mui-Utility
@@ -42,14 +37,6 @@
 - **visca-bridge (Python + React / TypeScript)** — Schlanke VISCA-over-IP ↔ RS-232 Bridge mit Python-Backend und modernem React-Frontend (Vite + TypeScript).  
   Link: https://github.com/Robin1053/visca-bridge
 
-- **better_auth_test (Next.js / TypeScript)** — Auth-Demo-Projekt mit Next.js 16, Better Auth (OAuth, Passkeys, 2FA) und Prisma (SQLite).  
-  Link: https://github.com/Robin1053/better_auth_test
-
-- **ToDo-App (Angular)** — Vollständige ToDo-Anwendung als praktisches Beispiel für Angular-Patterns und Interaktivität.  
-  Link: https://github.com/Robin1053/ToDo
-
-- **AngularWS (Angular)** — Experimentelles Angular-Projekt (z. B. WebSockets / spezielle Komponenten).  
-  Link: https://github.com/Robin1053/AngularWS
 
 Schau dir meine Repositories an — dort findest du weitere kleine Tools, Skripte und Experimente.
 
@@ -79,4 +66,4 @@ Du kannst mich gern per E‑Mail oder direkt über GitHub (Issues / PRs) erreich
 ---
 
 ### Lizenz
-Dieses Profil-Repository ist unter MIT lizenziert — siehe LICENSE-Datei (falls vorhanden).
+Dieses Profil-Repository ist unter MIT lizenziert — siehe LICENSE-Datei
