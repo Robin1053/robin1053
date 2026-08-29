@@ -74,7 +74,7 @@ Fullstack ist mein zweites Standbein — praktisch, weil Embedded-Projekte fast 
 ### 🌐 Kontakt
 
 - GitHub: [@Robin1053](https://github.com/Robin1053)
-- E-Mail: eberle_robin@gmx.de
+- E-Mail: robin.eberle@robineb.de
 
 Erreichbar per E-Mail oder direkt hier über Issues und Pull Requests.
 
